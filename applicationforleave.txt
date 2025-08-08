@@ -1,0 +1,31 @@
+Here is a sample application for leave:
+
+[Your Name]
+[Your Address]
+[City, State, Pincode]
+[Date]
+
+[Recipient's Name]
+[Recipient's Designation]
+[Institution/Organization]
+[Institution/Organization Address]
+[City, State, Pincode]
+
+Subject: Application for Leave
+
+Dear [Recipient's Name],
+
+I am writing to request a leave of [number] days from [start date] to [end date]. I have a [briefly mention the reason for leave, e.g. personal reason, family function, medical treatment, etc.].
+
+I will make sure that all my tasks are completed and my work is up to date before taking the leave. I will also be available by email if anything urgent comes up while I am away.
+
+I would be grateful if you could approve my leave application. If there is any issue, please let me know and I will do my best to resolve it.
+
+Thank you for your understanding and support.
+
+Sincerely,
+
+[Your Signature]
+[Your Name]
+
+Note: You can modify the application as per your needs and requirements. Also, make sure to include your correct details and the reason for leave.
